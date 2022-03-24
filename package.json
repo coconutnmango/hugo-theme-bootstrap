@@ -1,7 +1,7 @@
 {
-  "author": "Razon Yang <razonyang@gmail.com>",
+  "author": "Pascal",
   "bugs": {
-    "url": "https://github.com/razonyang/hugo-theme-bootstrap/issues"
+    "url": ""
   },
   "comments": {
     "dependencies": {
@@ -76,12 +76,6 @@
     "bootstrap",
     "bootstrap5"
   ],
-  "license": "MIT",
-  "name": "hugo-theme-bootstrap",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/razonyang/hugo-theme-bootstrap.git"
-  },
   "scripts": {
     "build": "webpack",
     "serve": "cd exampleSite && hugo server --themesDir=../../ --buildDrafts --disableFastRender"

@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-title = "Hugo Bootstrap"
+baseURL = "https://sage-flan-e6717c.netlify.app/"
+title = "Pascal's website"
 theme = "hugo-theme-bootstrap" # install via git submodule
 # theme = "github.com/razonyang/hugo-theme-bootstrap" # install via hugo module
 copyright = "Copyright © 2016-{year} Razon Yang. All Rights Reserved."
@@ -10,7 +10,7 @@ defaultContentLanguageInSubdir = true # If you use only one language comment thi
 #disableLanguages = ["fr", "zh-cn" ,"zh-tw"] # Uncomment in order to disable one or more language
 
 # Pagination
-paginate = 10
+paginate = 5
 # paginatePath = "page"
 
 # Disqus

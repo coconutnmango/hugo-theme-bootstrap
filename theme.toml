@@ -1,9 +1,9 @@
-name = "Bootstrap Theme for Personal Blog and Documentations"
+name = "Pascal"
 license = "MIT"
 licenselink = "https://github.com/razonyang/hugo-theme-bootstrap/blob/master/LICENSE"
-description = "A fast, responsive and feature-rich Hugo theme for personal blog and documentations"
-homepage = "https://github.com/razonyang/hugo-theme-bootstrap"
-demosite = "https://hbs.razonyang.com"
+description = "Business Information here"
+homepage = "https://sage-flan-e6717c.netlify.app/"
+demosite = "https://sage-flan-e6717c.netlify.app/"
 tags = [
   "bootstrap",
   "personal",
@@ -26,5 +26,5 @@ features = [
 ]
 min_version = "0.84.0"
 [author]
-  name = "Razon Yang"
-  homepage = "https://razonyang.com"
+  name = "Kaz(Based on Razon Yang"
+  homepage = ""
